@@ -169,35 +169,35 @@ Streamlit visualization dashboard
 # Visualization Outputs
 
 ## Land Surface Temperature (LST)
-![LST Map](outputs/lst_map.png)
+![LST Map](output/lst_map.png)
 
 Surface temperature distribution derived from Landsat 8 thermal bands.
 
 ---
 
 ## Vegetation Index (NDVI)
-![NDVI Map](outputs/ndvi_custom.png)
+![NDVI Map](output/ndvi_custom.png)
 
 NDVI highlights vegetation density and its cooling influence on urban heat islands.
 
 ---
 
 ## Built-up Index (NDBI)
-![NDBI Map](outputs/ndbi_custom.png)
+![NDBI Map](output/ndbi_custom.png)
 
 NDBI identifies urbanized and built-up areas that contribute to heat retention.
 
 ---
 
 ## Urban Heat Island Classification Map
-![UHI Classification](outputs/uhi_classification_map.png)
+![UHI Classification](output/uhi_classification_map.png)
 
 Classification model output showing different urban heat intensity zones across the Delhi NCR region.
 
 ---
 
 ## Urban Heat Island Regression Map
-![UHI Regression](outputs/uhi_regression_map.png)
+![UHI Regression](output/uhi_regression_map.png)
 
 Regression model output predicting continuous Urban Heat Island Intensity (UHII) values.
 
