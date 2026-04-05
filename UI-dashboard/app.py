@@ -17,7 +17,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-IMAGE_DIR = r"C:\Users\Amrit Kaur\OneDrive\Documents\New Folder\uhi\UHI-Detector\notebooks\images"
+IMAGE_DIR = r"..UHI-Detector\notebooks\images"
 
 CLF_HTML = os.path.join(IMAGE_DIR, "uhi_classification_map_interactive.html")
 REG_HTML = os.path.join(IMAGE_DIR, "uhi_regression_map_interactive.html")
